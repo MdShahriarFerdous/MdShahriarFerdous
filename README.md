@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/@ferdous_333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ferdous_333" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md. shahriar ferdous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. shahriar ferdous" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shahriar ferdous" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shahriar ferdous" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/shahriar ferdous](https://www.linkedin.com/in/md-shahriar-ferdous-dev/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shahriar ferdous" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
