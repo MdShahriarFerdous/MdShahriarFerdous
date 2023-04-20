@@ -2,9 +2,7 @@
 <h3 align="center">A passionate UX/UI designer and Full-stack developer in training.</h3>
 <img align="right" alt="Coding_pic" width="400"src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshahriarferdous&label=Profile%20views&color=0e75b6&style=flat" alt="mdshahriarferdous" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@ferdous_333" target="blank"><img src="https://img.shields.io/twitter/follow/@ferdous_333?logo=twitter&style=for-the-badge" alt="@ferdous_333" /></a> </p>
 
 
 - 📫 How to reach me **shahriarferdous2233@gmail.com**
