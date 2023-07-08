@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Md. Shahriar Ferdous</h1>
 <h3 align="center">A passionate UX/UI designer and Full-Stack MERN developer in training.</h3>
-<img align="center" alt="Coding_pic" width="100%" height="500" src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif">
+<p align="center">
+<img align="center" margin="auto" alt="Coding_pic" width="500" src="https://mycannabisaccountant.com/wp-content/uploads/2022/02/e87c5693979173.5e7f9c4d14e64.gif">
+</p>
+
 
 
 
