@@ -5,11 +5,9 @@
 </p>
 
 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/md-shahriar-ferdous-dev/]) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahriarferdous2233@gmail.com)
 
-I'm Shahriar Ferdous, a Full Stack Web Application Developer from <img src="assets/bangladesh.png" width="18"/> Bangladesh.
-:coffee: &emsp;Connect with me!
 
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahriarferdous2233@gmail.com)
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
 :computer: &emsp;Most used line of code `console.log("Hello world")` <br/>
