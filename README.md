@@ -10,7 +10,7 @@
 
 
 :hearts: &emsp;I enjoy programming and sharing knowledge <br/>
-:computer: &emsp;Most used line of code `console.log("Hello world")` <br/>
+:computer: &emsp;Most used line of code `console.log("---")` <br/>
 
 
 #### Things I code with
