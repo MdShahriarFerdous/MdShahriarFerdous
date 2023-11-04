@@ -1,15 +1,6 @@
 <p align="center">
-<<<<<<< HEAD
 <img align="center" margin="auto" alt="Coding_pic"  src="assets/coder2.png">
 </p>
-=======
-<img align="center" margin="auto" alt="Coding_pic" src="assets/coder2.png">
-</p>
-## Hi there <img align="center" src="assets/hello.gif" width="28px" alt="hi">
-
-<h3 align="center">A Passionate UX/UI Designer and MERN Developer.</h3>
-
->>>>>>> a2e1f0c7557ac2b71edfe1d041b57b87f2cc3b54
 
 ### Hi there <img align="center" src="assets/hello.gif" width="28px" alt="hi">
 
