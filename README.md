@@ -1,9 +1,11 @@
-## Hi there <img align="center" src="assets/hello.gif" width="28px" alt="hi">
-
-<h3 align="center">A Passionate UX/UI Designer and MERN Developer.</h3>
 <p align="center">
-<img align="center" margin="auto" alt="Coding_pic" width="500" src="assets/coder2.png">
+<img align="center" margin="auto" alt="Coding_pic"  src="assets/coder2.png">
 </p>
+
+### Hi there <img align="center" src="assets/hello.gif" width="28px" alt="hi">
+
+<hr>
+<h2 align="center">A Passionate UX/UI Designer and MERN Developer.</h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shahriar-ferdous-dev/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahriarferdous2233@gmail.com)
 
