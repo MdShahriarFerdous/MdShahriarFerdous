@@ -4,7 +4,7 @@
 </h2>
 
 <p align="center">
-<img align="center" margin="auto" height="300px" alt="Coding_pic"  src="./assets/program.gif">
+<img align="center" margin="auto" height="300px" width="400px" alt="Coding_pic"  src="./assets/program.gif">
 </p>
 
 <h2 align="center">Passionate UX Designer & FullStack Developer.</h2>
